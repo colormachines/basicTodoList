@@ -10,6 +10,7 @@ body,html{
   padding-bottom:1.5em;
   margin:0 auto;
   margin-top:2em;
+  margin-bottom:2em;
   border-radius: 3px 3px 3px 3px;
 
 }
@@ -24,9 +25,18 @@ body,html{
 }
 #submit{
   margin-top:1.5em;
-  
+
+}
+#paragraph-adjust{
+  margin-left:1em;
+}
+#left-spacing{
+  margin-right:2em;
 }
 label{
   margin-top:1em;
   margin-bottom:1em;
+}
+.testing{
+  margin-left:1em;
 }
